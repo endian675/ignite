@@ -1,0 +1,7 @@
+*.idea
+*.log
+*.log.*
+.npmrc
+build/*
+node_modules
+public/stylesheets/*.css
